@@ -50,5 +50,5 @@ def dijkstra():
 2. route_planning.ipynb 基于地铁站的路径规划，路径起始地址只能是北京的地铁站。
 3. route_api.py 将route_planning.ipynb中的路径规划算法进行api封装。
 4. route_planning2.ipynb 优化后的路径规划，使用自己封装的route_api.py, 计算距离路径起始地址最近的地铁站，进行路径规划，将起始地址添加到路径的头和尾。
-5. graph.pkl 用于存储北京地铁的图信息。
+5. graph.pkl 用于存储上海地铁的图信息。
 6. test_api.py 用于测试route_api.py 。
